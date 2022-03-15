@@ -10,9 +10,10 @@
 Here are two separate folder for the full project, one is for frontend and the other one is for backend.
 
 ## To Use The Frontend Folder
-You can directly visit my live site from above or you can open the "hoot-story-blog-site-client-side" folder and open the command line there and then use the command below to see the outcome
+You can directly visit my live site from above or you can open the "hoot-story-blog-site-client-side" folder and open the command line there and then use the following commands below to see the outcome
 <br>
-`$ npm start`
+1. Install all the dependencies `$ npm install`
+2. `$ npm start`
 
 
 ## To Use The Backend Folder
